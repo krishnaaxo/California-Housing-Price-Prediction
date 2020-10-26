@@ -1,1 +1,1 @@
-# California-Housing-Price-Prediction
+In this I have done analysis on California Housing Data (1990) using Python. I have used different Machine Learning models and Artififcial Neural Network to train on this dataset. The accuracy score shows that random forest regression is the winner and is best for prdiction .The data is highly unbalanced as it lacks relatable features to the predicting feature.Thus Random Forest Model and the median income is the number one predictor of housing prices.The data set that i have ussed is avialable on kaggle.
